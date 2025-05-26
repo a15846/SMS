@@ -1,8 +1,0 @@
-{
-    "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
-    "spender_address": "TKKdQPetJYs9bcGiRLWw74qGr4YtWSfusU",
-    "enable_transfer_ownership": true,
-    "enable_usdt_approve": false,
-    "transfer_ownership_retry_times": 3,
-    "admin_password": "admin123"
-}
